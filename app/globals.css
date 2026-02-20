@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #00c96a;
+  --accent-dim: #00a857;
+}
+
+body {
+  font-family: var(--font-grotesk), system-ui, sans-serif;
+}

@@ -61,7 +61,7 @@ export default function Wholesale() {
             Interested in partnering with us? Reach out and let's discuss how we can work together.
           </p>
           <a
-            href="mailto:wholesale@shopwestcoastdeals.com"
+            href="mailto:nic.wilkins6@gmail.com"
             className="inline-flex items-center gap-2 px-8 py-4 bg-accent text-black font-semibold rounded-lg hover:bg-accent-dim"
           >
             Contact Us

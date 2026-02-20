@@ -20,7 +20,7 @@ export default function WhatWeDo() {
       <section className="pt-32 pb-20 bg-gray-900">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h1 className="font-display text-6xl text-white mb-6">WHAT WE DO</h1>
-          <p className="text-xl text-white/70">Live commerce across multiple platforms</p>
+          <p className="text-xl text-white/70">Live commerce and traditional ecommerce</p>
         </div>
       </section>
 
@@ -32,19 +32,15 @@ export default function WhatWeDo() {
             We specialize in live streaming e-commerce, creating engaging shopping experiences where buyers can interact in real-time, ask questions, and bid on products they love.
           </p>
 
-          <h3 className="font-display text-2xl text-gray-900 mb-4 mt-12">OUR PLATFORMS</h3>
+          <h3 className="font-display text-2xl text-gray-900 mb-4 mt-12">HOW WE SELL</h3>
           <div className="space-y-4">
             <div className="p-6 bg-gray-50 rounded-lg border border-gray-200">
-              <h4 className="font-display text-xl text-accent">WHATNOT</h4>
-              <p className="text-gray-600">Our primary platform for live auction-style sales.</p>
+              <h4 className="font-display text-xl text-accent">LIVE SELLING</h4>
+              <p className="text-gray-600">Real-time auction-style sales with engaged audiences. Interactive shopping experiences that drive conversions and build community.</p>
             </div>
             <div className="p-6 bg-gray-50 rounded-lg border border-gray-200">
-              <h4 className="font-display text-xl text-gray-900">TIKTOK SHOP</h4>
-              <p className="text-gray-600">Social commerce with live shopping events.</p>
-            </div>
-            <div className="p-6 bg-gray-50 rounded-lg border border-gray-200">
-              <h4 className="font-display text-xl text-gray-900">STOCKX & GOAT</h4>
-              <p className="text-gray-600">Marketplace presence for authenticated products.</p>
+              <h4 className="font-display text-xl text-gray-900">TRADITIONAL ECOMMERCE</h4>
+              <p className="text-gray-600">Established marketplace presence for authenticated products. Meeting customers where they shop with verified, quality inventory.</p>
             </div>
           </div>
         </div>
